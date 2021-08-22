@@ -9,3 +9,10 @@ Tài khoản đăng nhập:
     + Email: quynhanhcr@yahoo.com
     + Password: 123123
 ```    
+
+### Cài đặt project 
+```
+git clone https://github.com/quynhanhcr/ReactProject.git
+yarn install
+yarn start
+```
