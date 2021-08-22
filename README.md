@@ -2,6 +2,8 @@
 
 Đã được deploy lên https://quynhanh.tudomuaban.com/
 
+File hướng dẫn sử dụng trang web https://github.com/quynhanhcr/ReactProject/blob/main/Using%20instruction.pdf
+
 Tài khoản đăng nhập: 
 ```
     + Email: quynhanhcr@yahoo.com
